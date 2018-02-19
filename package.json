@@ -1,7 +1,7 @@
 {
   "name": "ngx-snake",
   "version": "0.1.2",
-  "license": "MIT",
+  "license": "KIC - ZINA based on MIT Licence code from SamirH",
   "angular-cli": {},
   "scripts": {
     "ng": "ng",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/SamirHodzic/ngx-snake"
+    "url": "git://github.com/zinaLacina/snake"
   },
   "private": false,
   "dependencies": {
